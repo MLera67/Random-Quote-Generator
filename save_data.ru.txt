@@ -1,0 +1,7 @@
+    def save_data(self):
+        """Сохранение данных в JSON-файл"""
+        data = {
+            "quotes": self.quotes,
+            "history": self.history
+        }
+        with open("quotes_data.json", "w", encoding="
