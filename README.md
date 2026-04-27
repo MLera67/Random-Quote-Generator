@@ -1,6 +1,6 @@
 Автор: Кажарова Аделина Мухамедовна Курс: Python с нуля: первые шаги в программировании (начальный уровень) Дата: 27.04.2026г. 
 Random Quote Generator (Генератор случайных цитат)
-Ссылка:
+Ссылка:https://github.com/MLera67/Random-Quote-Generator
 
 import tkinter as tk
 from tkinter import ttk, messagebox
