@@ -188,11 +188,5 @@ if __name__ == "__main__":
    git add .
    git commit -m "Initial commit: Random Quote Generator"
    ```
-5. Создайте репозиторий на GitHub.
-6. Свяжите локальный репозиторий с удалённым:
-   ```bash
-   git remote add origin <URL-вашего-репозитория>
-   ```
-7. Отправьте код на GitHub:
-   ```bash
-   git push -u origin
+
+
